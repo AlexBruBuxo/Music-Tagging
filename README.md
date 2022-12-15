@@ -4,10 +4,10 @@ This project aims to study and classify music styles based on the features extra
 
 ## Dataset
 
-The [dataset](https://www.kaggle.com/datasets/insiyeah/musicfeatures) used for this project has 1000 values with 20 different genres: 
+The [dataset](https://www.kaggle.com/datasets/insiyeah/musicfeatures) used for this project has 1000 values with 10 different genres: 
 
 ```
-'blues', 'classical', 'country', 'disco', 'hiphop', 'jazz', 'metal', 'pop': 7, 'reggae', 'rock'
+'blues', 'classical', 'country', 'disco', 'hiphop', 'jazz', 'metal', 'pop', 'reggae', 'rock'
 ```
 
 Some of the predictive variables include: tempo, chroma_stft, rmse, spectral_centroid, spectral_bandwidth, rollof, zero_crossing_rate, or mfcc coefficients.
